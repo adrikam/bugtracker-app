@@ -1,0 +1,14 @@
+# Ignore build folders
+/target/
+
+# Ignore IDE/editor configs
+*.iml
+.idea/
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Maven wrapper log files
+.mvn/
